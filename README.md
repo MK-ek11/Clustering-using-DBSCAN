@@ -1,7 +1,7 @@
 # Apply DBSCAN algorithm for clustering and outlier detection
 ## Description
 Course: Data Mining and Knowledge Discovery (Fall 2021) <br />
-Task: Write own program
+Task: Write own code
 
 
 > Density-based clustering locates regions of high density that are separated from one another by regions of low density. DBSCAN is a simple and eﬀective density-based clustering algorithm that illustrates a number of important concepts that are important for any density-based clustering approach.
